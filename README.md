@@ -1,3 +1,7 @@
+#Calculator Application
+This application is made on ReactJs. User can do calculation by using this app which make the result more precisely.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
